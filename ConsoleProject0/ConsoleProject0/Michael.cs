@@ -6,9 +6,9 @@
 
     public Michael(int S, int I, int sWB)
     {
-        S = Strength;
-        I = Intelligence;
-        sWB = socialWellBeing;
+        Strength = S;
+        Intelligence = I;
+        socialWellBeing = sWB;
     }
 
 
