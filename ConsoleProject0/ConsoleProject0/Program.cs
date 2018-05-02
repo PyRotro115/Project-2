@@ -20,8 +20,11 @@ namespace ConsoleProject0
         static void Main(string[] args)
         {
             // Your code goes below here
-            Console.WriteLine("This is a text based game called Michael's story. In this story you're trying to get this girl named Sarah, and you have\n" +
-                "to take her on a date within 1 month since prom is coming near. Much like the Walking Dead your decisions will impact the character and how the story progresses. The game also has an RPG element to it. Strength, Intelligence,and socialWellBeing are the 3. Depending on the situation and how you answer each question your stats may decrease,increase, or stay neutral.");
+            Console.WriteLine("This is a text based game called Michael's story. In this story you're trying to get this girl named Sarah, and you \n" +
+                "have to take her on a date within 1 month since prom is coming near. Much like the Walking Dead your decisions will \n" +
+                "impact  the character and how the story progresses. The game also has an RPG element to it. Strength, Intelligence, \n" +
+                "and socialWellBeing are the 3. Depending on the situation and how you answer each question your stats may \n" +
+                "decrease,increase, or stay neutral.");
             // Your code goes above here
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
